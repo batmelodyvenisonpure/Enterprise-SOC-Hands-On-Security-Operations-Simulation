@@ -1,10 +1,9 @@
-# **Enterprise SOC L2 Analyst Project**
+# **Enterprise SOC Hands-on Security Operations**
 ### *5-Day Hands-On Security Operations Simulation*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)](https://github.com/PowerShell/PowerShell)
-[![Wazuh](https://img.shields.io/badge/Wazuh-4.7%2B-orange)](https://wazuh.com/)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)](https://attack.mitre.org/)
+![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
 ## 📋 **Table of Contents**
