@@ -1,5 +1,3 @@
-<div align="center">
-  
 # **Enterprise SOC L2 Analyst Project**
 ### *5-Day Hands-On Security Operations Simulation*
 
@@ -8,9 +6,6 @@
 [![Wazuh](https://img.shields.io/badge/Wazuh-4.7%2B-orange)](https://wazuh.com/)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)](https://attack.mitre.org/)
 
-</div>
-
----
 
 ## 📋 **Table of Contents**
 - [Project Overview](#-project-overview)
