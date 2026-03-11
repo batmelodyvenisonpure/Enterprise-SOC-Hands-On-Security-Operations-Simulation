@@ -4,7 +4,7 @@
 ![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
+![Atomic Red Team](https://img.shields.io/badge/Testing-Atomic%20Red%20Team-FF6F61?style=for-the-badge&logo=redhat&logoColor=white)
 
 ## **Project Overview**
 
