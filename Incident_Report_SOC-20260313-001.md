@@ -1,4 +1,4 @@
-# Incident Report: [INCIDENT TITLE]
+# Incident Report: Multi-Stage Attack: PowerShell Download Cradle, Mimikatz, and AD Enumeration on VULN-WIN
 **Case ID:** SOC-20260313-001
 **Date:** 13.03.2026
 **Status:** Closed
